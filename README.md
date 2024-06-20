@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran Mundra</h1>
 <h3 align="center">Full stack developer</h3>
 
-
-- 🔭 I’m currently looking for opportunities for **Software Engineer** role
+- 🔭 I’m currently looking for opportunities **for Software Engineer role**
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [kiranmundra.vercel.app](kiranmundra.vercel.app)
+- 👨‍💻 All of my projects are available at [saikiranm140](saikiranm140)
 
-- 💬 Ask me about **Node, React.js, Cricket, Tennis, Telugu Movies**
+- 📝My personal portfolio website [kiranmundra.vercel.app](kiranmundra.vercel.app)
 
-- 📫 Reach me at **smundra@buffalo.edu**
+- 💬 Ask me about **Node, react**
+
+- 📫 How to reach me **smundra@buffalo.edu**
 
 - 📄 Know about my experiences [kiranmundra.vercel.app](kiranmundra.vercel.app)
 
